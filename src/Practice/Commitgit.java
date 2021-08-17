@@ -3,7 +3,7 @@ package Practice;
 public class Commitgit {
 
 	public static void main(String[] args) {
-		char gender='H';
+		char gender='M';
 		
 		switch (gender) {
 		case 'M':
