@@ -1,0 +1,29 @@
+[33mcommit dde9f3fcaece3c0796dade662e1a035c89e14a28[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sharifullah Faqery <Shariffaqery@gmail.com>
+Date:   Tue Aug 17 00:00:13 2021 -0400
+
+    Created an array and printed all the elements
+
+[33mcommit 1865536ff078a1326e8290ba4a0218d412032702[m
+Author: Sharifullah Faqery <Shariffaqery@gmail.com>
+Date:   Mon Aug 16 23:54:27 2021 -0400
+
+    A new Class has been made
+
+[33mcommit 22e31436bfac75db479af90819586f50b88a19d8[m
+Author: Sharifullah Faqery <Shariffaqery@gmail.com>
+Date:   Mon Aug 16 23:51:52 2021 -0400
+
+    The Gender Part changed from H to M
+
+[33mcommit 22d52f00e1c3efcdf0b029c51e0fff230bb387b0[m
+Author: Sharifullah Faqery <Shariffaqery@gmail.com>
+Date:   Mon Aug 16 23:46:01 2021 -0400
+
+    The second super commit
+
+[33mcommit 754df01ff2069494b44c292b9333c39204d8a120[m
+Author: Sharifullah Faqery <Shariffaqery@gmail.com>
+Date:   Mon Aug 16 23:10:39 2021 -0400
+
+    The first git commit which has only the file bin

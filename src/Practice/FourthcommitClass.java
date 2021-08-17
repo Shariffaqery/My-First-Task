@@ -10,6 +10,10 @@ public class FourthcommitClass {
 			System.out.println(arr[i]);
 		}
 
+		
+		System.out.println("hello guys");
+		
+		System.out.println("How are you doing");
 	}
 
 }
